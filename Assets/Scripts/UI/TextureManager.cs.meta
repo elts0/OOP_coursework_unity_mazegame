@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f54194ce620d96a4aba62ce3f3df6e6c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _backgroundPlane: {fileID: 2100000, guid: b4cd92cc02f30b74a9de64b2e62caa9c, type: 2}
+  - _cellCube: {fileID: 2100000, guid: 366e19e855a176445ab2c97a0a119600, type: 2}
+  - _cellWall: {fileID: 2100000, guid: e6f9b0d88ed868149a2de35715bed56a, type: 2}
+  - _player: {fileID: 2100000, guid: d1271596a10420a428f8e3d1bacf3b37, type: 2}
+  - _key: {fileID: 2100000, guid: 4a560cdb5f778b64cab3e1248da019fd, type: 2}
+  - _pathPlate: {fileID: 2100000, guid: 25271f749d5dd274eb94d7553433956e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
